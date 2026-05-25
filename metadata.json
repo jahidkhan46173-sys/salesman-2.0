@@ -1,0 +1,6 @@
+{
+  "name": "Salesman 2.0",
+  "description": "Modern, premium AI Automation & Marketing Agency website. Automating sales, marketing, and support for high-growth businesses. Features simulated voice calling, interactive AI consulting, and premium UPI payment.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
